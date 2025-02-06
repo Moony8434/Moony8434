@@ -1,9 +1,8 @@
-## 🌕 Hey, I'm Moon.
+## 👋 I'm Moony8434
 
-<html>
-<a href="mailto:moonhrt@ghostbox.cc">moonhrt@ghostbox.cc</a>
--
-<a href="https://raw.githubusercontent.com/Moony8434/Moony8434/refs/heads/main/pgp.txt">/pgp.txt (raw)</a>
--
-<a href="https://signal.me/#eu/9WPDK3FWBqTzyqcJXb6LlSsFIsQn3FmARkHDYIjKpIoe9GLqRNBBtr5Kq9xfnPCn">Signal</a>
-</html>
+[![Discord (1336951385576439818)](https://img.shields.io/badge/Discord-moony_moonhrt-%235865F2.svg)](https://discord.com/users/1336951385576439818)
+[![Signal (Moony8433.12)](https://img.shields.io/badge/Signal-Moony8433.12-blue)](https://signal.me/#eu/9WPDK3FWBqTzyqcJXb6LlSsFIsQn3FmARkHDYIjKpIoe9GLqRNBBtr5Kq9xfnPCn)
+
+> [!NOTE]
+> **Email:** <moonhrt
+> Please don't send me sensitive emails without using PGP.<br>
